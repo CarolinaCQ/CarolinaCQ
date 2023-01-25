@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, Soy Carolina!
 
 <!--
 **CarolinaCQ/CarolinaCQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨Soy Desarrolladora Backend Java, me especializo en el desarrollo de software mediante bootcamps, cursos y de manera autodidacta. Disfruto aprender e incorporar nuevos conocimientos.
+
+💻Actuamente me encuentro en la búsqueda de mi primer empleo IT, para poner en práctica mis habilidades adquiridas y tener la posibilidad de sumar nuevas, para seguir creciendo profesionalmente.
+
+✔Me destaco en habilidades tales como la comunicación, pensamiento analíto, compromiso y aprendizaje rápido.
+
+📫Me pueden contactar por los siguientes medios:
+ - [![Gmail Badge](https://img.shields.io/badge/-carolinaquevedo01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinaquevedo01@gmail.com)](mailto:carolinaquevedo01@gmail.com)
+ - [![Linkedin Badge](https://img.shields.io/badge/-carolinacamilaquevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-camila-quevedo/)](https://www.linkedin.com/in/carolina-camila-quevedo/)
