@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ✨Soy Desarrolladora Backend Java, me especializo en el desarrollo de software mediante bootcamps, cursos y de manera autodidacta. Disfruto aprender e incorporar nuevos conocimientos.
 
-💻Actuamente me gustaría desempeñarme como programadora, para poner en práctica mis habilidades adquiridas y tener la posibilidad de sumar nuevas, para seguir creciendo profesionalmente.
-
 ✔Me destaco en habilidades tales como la comunicación, pensamiento analíto, compromiso y aprendizaje rápido.
 
 📫Me pueden contactar por los siguientes medios:
